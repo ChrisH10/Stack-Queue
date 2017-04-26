@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "homesnap-165719",
+  "private_key_id": "8e860bbe005e572ab0559b5050952128f00b71ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDY19JkdaPCB2+K\nTPy5qeeNKuQ4IPIueyYyeBQJN4BTHCTg3TU7nf9mZFmNrf0ti7FZ3hTOAxKdPgmp\nOC1HWLUOEqS41M4FTfnXq7WRiET21ouXGHBHaFNWrx8pbL7KsOStnaGUOLSFhw1A\niZrpcDLFiHcKX1pkvgKtZ1v0iw6/7/u3ikFuVvXwgZ70j6T9B/qv1P2F7fDJDr6I\n/c4N/D+ZCmgNJqMzEfRi/NkdRLbMtu6G5I31kdLYa1z9A+OwWx5bT8+y8ydq0zM5\ne50MtmyUs39u1y8twwrspe4b1uAJ0hhQiSOvfqqgI15gu+Q+vh8QAoYNG1IqCguH\n8UqkohXlAgMBAAECggEBAJ2zJ/GjlHrRyY69OrcUF7AU13DylO605SyjI38ofAz1\nVOSsO8ClwU6IAJEHTi9Hfq2q01qX5Xux2HjWwCc5HkOjz2QUb9hvwxnUaPH0NqOF\nmHNEdLOZ7bIHHhSUX5UtXMHe99nB+5d4hmy/JohK7sG1400J18WYYn4Vw0xvrURs\nPr8Yj7jt0yEnwJoHh+4834uFQ4I/PRzlhlVuj/CPZGw9Lx+66hSp3SF5urdGtAf9\n3pc7kG1UozqmZNPZZN8wWUPS1ET9u12PnNUwNFbTZszT4TAcAW+42p01IEwOTrH0\nUgZMLtIJZWX1scGaJ5s6VRQvz1GCFVHz/cfDfOM36kECgYEA8nEbg0LXnxHGb0sp\nwFXppCLgFUJBgLJsdGCrHJ3l2fNJV2thi2G8d0U3N/HYASxYXrWzWhqZna1wXcL/\nsq4eOgurosaN03o3ckR8wI4A16QSKVLWOivjGI8TYEjK+eKKqfM7gSyN+ncsESxy\nSD41mtpig1G7cSJHuyPiE4GLpgkCgYEA5Pg7dyT9cWi2ILsng0Zmsw+vraVsskgk\nTtjFemNiB0R8Eg5EW7Nc+ivL/OzPkx5QETlOS2iO6Jb8VPLu7bR9PGApmC+1Be7a\nJ1kxuosxeZE8H0qbs9XO6xp3du0apOn6Wurlg6tMQjSHlUR3R3lidG0dc4ekjNe2\nXrjwOGaex/0CgYBdaj+ToBm87PhswaVgurm/yMBW8KSUlis73FOSPzTledx0lqeL\nMSmRO1Y/dCwqp4+VTqXAvicank2BkzU6/+QdsYl8uszDA4CBwunet9iTPmDRE14A\nJBDo0ZhBrUqoZiXPvizbZPN/4pNUOq/+LhoxhJwYxVFYEkFZVkYyBeRtIQKBgQCt\nx2j6iGyCwoJYXTMkAy63AFTJaiARP4eu//8BYKRp96Ri38kp//u1M8Bieikg84S5\nTdEKkpTEGrPwlWCZsL7ML//hrXOqyRlxe9SuTC6EoaIL7cg2uTOOZEv/Sv1J5PtK\nPbVsNXpvVQcCVzBgYtRCoP4VTQGqk52qTpqjc99W0QKBgQDsMLpeFs8NUbR5eNd5\n8Dut8A7iOo0UvhgR1ZcPJO/MC8BYZf2f/s3nc80yy3RItlOQ5Pp+FxOLQEiBU4hL\n+80D1oRZrK1OjldtnMhLBzJ9yfXFrB4gtcg4XXZtuNQ1fTwU5OzPXgjaXJVQaWlv\n998Ixrh0PZHiWLA5D6fGXan9/A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "apitutorial@homesnap-165719.iam.gserviceaccount.com",
+  "client_id": "112100294043297869765",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apitutorial%40homesnap-165719.iam.gserviceaccount.com"
+}
+
